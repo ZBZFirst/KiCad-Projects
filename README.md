@@ -1,5 +1,23 @@
 # ESP32 BP1 Controller
 
+---
+
+## Reference Images
+
+### PCB Layout
+
+![Controller PCB](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/ControllerV1.jpg)
+
+### Attachment
+
+![Attachment](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/AttachmentV2.jpg)
+
+### Finished Build
+
+![Finished Controller](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpg)
+
+---
+
 Custom ESP32 BLE HID controller + matching PCB design.
 
 This project combines:
