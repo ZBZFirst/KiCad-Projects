@@ -14,7 +14,7 @@
 
 ### Finished Build
 
-<img src="https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpg" width="500">
+<img src="https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpeg" width="500">
 
 ---
 
