@@ -14,7 +14,7 @@
 
 ### Finished Build
 
-![Finished Controller](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpg)
+![Finished Controller](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpeg)
 
 ---
 
