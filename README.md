@@ -1,4 +1,4 @@
-# ESP32 BP1 Controller
+# ESP32 Controller
 
 ---
 
@@ -6,15 +6,15 @@
 
 ### PCB Layout
 
-![Controller PCB](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/ControllerV1.jpg)
+<img src="https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/ControllerV1.jpg" width="500">
 
 ### Attachment
 
-![Attachment](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/AttachmentV2.jpg)
+<img src="https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/AttachmentV2.jpg" width="500">
 
 ### Finished Build
 
-![Finished Controller](https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpeg)
+<img src="https://raw.githubusercontent.com/ZBZFirst/KiCad-Projects/main/Finished.jpg" width="500">
 
 ---
 
